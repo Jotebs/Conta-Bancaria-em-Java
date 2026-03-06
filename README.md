@@ -40,6 +40,7 @@ Validação de saldo para saque
 ▶️ Como executar
 
 Clone o repositório
+
 git clone https://github.com/Jotebs/Conta-Bancaria-em-Java.git
 Abra o projeto em uma IDE Java (IntelliJ, Eclipse ou VS Code)
 Execute o arquivo:

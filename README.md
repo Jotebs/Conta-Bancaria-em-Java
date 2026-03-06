@@ -37,18 +37,6 @@ Menu interativo no console
 Validação de saldo para saque
 
 
-📂 Estrutura do projeto
-Conta-Bancaria-em-Java
-│
-├── src
-│   └── bank
-│       ├── Main.java
-│       └── ContaBancaria.java
-│
-├── README.md
-└── LICENSE
-
-
 ▶️ Como executar
 
 Clone o repositório
